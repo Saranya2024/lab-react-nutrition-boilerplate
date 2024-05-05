@@ -80,7 +80,7 @@ class FoodBox extends Component {
                       <p>{name}</p>
                       <p>{cal} calories</p>
                     </div>
-                    <div>
+                    <div className="input-container">
                       <input
                         type="number"
                         value={quantity}
