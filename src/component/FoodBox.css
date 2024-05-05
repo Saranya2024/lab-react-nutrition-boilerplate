@@ -45,13 +45,11 @@ img {
 }
 
 .plus-button {
-  display: inline-block;
   width: 30px;
   height: 39px;
   background-color: purple;
   color: white;
   border-radius: 0px;
-  display: flex;
   justify-content: center;
   align-items: center;
   cursor: pointer; 
